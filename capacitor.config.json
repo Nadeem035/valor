@@ -1,0 +1,6 @@
+{
+  "appId": "com.valortechnicalcleaning",
+  "appName": "valor",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
